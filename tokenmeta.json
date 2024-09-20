@@ -1,6 +1,6 @@
 {
   "name": "Vitcoin",
   "symbol": "VTC",
-  "description": "Vitcoin is a custom token on the Solana blockchain.",
-  "image": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1).png",
+  "uri": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/tokenmeta.json",
+  "image": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1).png"
 }
