@@ -1,6 +1,17 @@
 {
   "name": "Vitcoin",
-  "symbol": "VTC",
-  "uri": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/tokenmeta.json",
-  "image": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1).png"
+  "symbol": "VIT",
+  "uri": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1)%20(1).jpg",
+  "description": "Vitcoin is a token on the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1)%20(1).jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "hhttps://raw.githubusercontent.com/iamanimeshdev/vitcoinmetadata/main/snapedit_1726840951824-removebg-preview%20(1)%20(1).jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
 }
